@@ -1,6 +1,5 @@
 #! /usr/bin/python3
 # regex program that cleans up text from the clipboard
-# TODO(2017/01/16): Create functions and test cases
 
 import pyperclip
 import re
